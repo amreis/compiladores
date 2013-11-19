@@ -10,6 +10,7 @@ CMakeFiles/main.dir/src/comp_dict.c.o: ../src/comp_dict.c
 
 CMakeFiles/main.dir/src/comp_graph.c.o: ../src/comp_graph.c
 
+CMakeFiles/main.dir/src/comp_list.c.o: ../src/../include/comp_list.h
 CMakeFiles/main.dir/src/comp_list.c.o: ../src/comp_list.c
 
 CMakeFiles/main.dir/src/comp_tree.c.o: ../src/comp_tree.c

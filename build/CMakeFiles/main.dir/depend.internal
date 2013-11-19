@@ -11,6 +11,7 @@ CMakeFiles/main.dir/src/comp_dict.c.o
 CMakeFiles/main.dir/src/comp_graph.c.o
  /home/grad/amreis/Desktop/Compiladores/src/comp_graph.c
 CMakeFiles/main.dir/src/comp_list.c.o
+ /home/grad/amreis/Desktop/Compiladores/src/../include/comp_list.h
  /home/grad/amreis/Desktop/Compiladores/src/comp_list.c
 CMakeFiles/main.dir/src/comp_tree.c.o
  /home/grad/amreis/Desktop/Compiladores/src/comp_tree.c

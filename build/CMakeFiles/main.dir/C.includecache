@@ -11,6 +11,8 @@
 ../include/comp_graph.h
 
 ../include/comp_list.h
+stdlib.h
+-
 
 ../include/comp_tree.h
 
@@ -33,58 +35,6 @@ iks_ast.h
 ../include/iks_ast.h
 gv.h
 ../include/gv.h
-
-/home/grad/amreis/Desktop/Compiladores/build/lexer.c
-stdio.h
--
-string.h
--
-errno.h
--
-stdlib.h
--
-inttypes.h
--
-parser.h
-/home/grad/amreis/Desktop/Compiladores/build/parser.h
-unistd.h
--
-
-/home/grad/amreis/Desktop/Compiladores/build/parser.c
-stdio.h
--
-stddef.h
--
-libintl.h
--
-alloca.h
--
-malloc.h
--
-stdlib.h
--
-stdlib.h
--
-stdio.h
--
-
-/home/grad/amreis/Desktop/Compiladores/build/parser.h
-
-/home/grad/amreis/Desktop/Compiladores/src/comp_dict.c
-
-/home/grad/amreis/Desktop/Compiladores/src/comp_graph.c
-
-/home/grad/amreis/Desktop/Compiladores/src/comp_list.c
-
-/home/grad/amreis/Desktop/Compiladores/src/comp_tree.c
-
-/home/grad/amreis/Desktop/Compiladores/src/gv.c
-stdio.h
--
-stdlib.h
--
-iks_ast.h
-/home/grad/amreis/Desktop/Compiladores/src/iks_ast.h
 
 /home/grad/amreis/Desktop/Compiladores/src/main.c
 main.h
